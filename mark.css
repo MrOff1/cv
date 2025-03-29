@@ -1,0 +1,50 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+section{
+    display: flex;
+}
+
+h3{
+    font-weight: 500;
+    font-size: x-large;
+}
+
+h1{
+    font-stretch: extra-expanded;
+    font-size: xx-large;
+    font-weight: 900;
+   font-display: xx-large;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn{
+    border: 0;
+    padding: 20px 50px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color:  darkorange;
+    color: white;
+}
+
+.btn:hover{
+    background-color: lightskyblue;
+}
+.big{
+    font-size: 20px;
+}
+
+.hire{
+    border: 0;
+    padding: 10px 30px;
+    border-radius: 3px;
+    cursor: pointer;
+    background-color:  darkorange;
+    color: white;
+}

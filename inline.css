@@ -1,0 +1,36 @@
+
+.btn{
+    border: 0;
+    padding: 30px 70px;
+    border-radius: 30px;
+    cursor: pointer;
+  background-color: black;
+  color: white;
+  font-weight: 500;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 70px;
+    font: 600;
+  font-size: bolder;
+}
+body{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+body{
+    background: rgb(201, 221, 236);
+}
+.amp{
+    font-weight: 500;
+    font-size: larger;
+}
+.display{
+    display: flex;
+}
+
+
+
+
+
+  
